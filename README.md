@@ -3,4 +3,4 @@ This addon creates armory links
 /arm
 
 
-![whitemane inspect ss](https://ibb.co/xLB21y7))
+![whitemane inspect ss](https://ibb.co/xLB21y7)
