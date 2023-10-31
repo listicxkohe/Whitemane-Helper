@@ -1,3 +1,5 @@
+Certainly, here's your updated readme.md content with a direct download link:
+
 **Whitemane Inspect (v1.0.0)**
 
 **Description:**
@@ -10,7 +12,7 @@ Whitemane Inspect is a World of Warcraft addon crafted for the Whitemane private
 - **Reload UI**: Efficiently reload the game's user interface with a single click.
 
 **Installation:**
-1. Download the addon from a trusted source.
+1. [Download the addon](https://github.com/listicxkohe/Whitemane-Helper/releases/download/release/wtiv1.zip).
 2. Extract the files.
 3. Relocate the addon folder to your WoW 4.3.4 addons directory.
 4. Enable the addon within the WoW interface.
