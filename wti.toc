@@ -1,0 +1,10 @@
+## Interface: 40300
+## Title: |cFFFF0000Whitemane Inspect|r
+## Notes: Provides additional functionality for inspecting players.
+## Author: Your Name
+## Version: 1.0
+## X-Website: https://example.com
+
+# Addon main Lua file
+core.lua
+
