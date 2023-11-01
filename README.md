@@ -1,7 +1,7 @@
 **Whitemane Inspect (v1.0.0)**
 
 **Description:**
-Whitemane Inspect is a World of Warcraft addon crafted for the Whitemane private server (WoW 4.3.4). This tool generated armory link.
+Whitemane Inspect is a World of Warcraft addon crafted for the Whitemane private server (WoW 4.3.4). This tool generates armory link.
 
 **Features:**
 - **Armory Link Generation**: Quickly generate and access armory links for characters.
